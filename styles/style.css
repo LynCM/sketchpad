@@ -1,0 +1,25 @@
+#title {
+	font-family: "Luckiest Guy", cursive;
+	font-size: 50px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+#container {
+	height: 500px;
+	width: 500px;
+	margin: 80px auto;
+	border: 5px solid black;
+}
+.grid {
+	display: inline-block;
+	float: left;
+	border-width: 0px;
+	border-spacing: 0px;
+	margin: 0px;
+	padding: 0px;
+}
+
+.hovered {
+	background-color: black;
+}
